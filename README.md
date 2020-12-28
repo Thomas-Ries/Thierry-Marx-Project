@@ -34,10 +34,10 @@ It is not a responsive website
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/103199442-2af2c600-48eb-11eb-9020-08fbf83c4653.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/103199730-bbc9a180-48eb-11eb-98be-66c355b478be.png)
-
-![alt tag](https://user-images.githubusercontent.com/73991398/103199706-abb1c200-48eb-11eb-8b0a-a0a7279230b6.png)
-
 ![alt tag](https://user-images.githubusercontent.com/73991398/103199713-b3716680-48eb-11eb-959f-97e93e91b4c2.png)
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/103199724-b8ceb100-48eb-11eb-8a79-acd4cb731e78.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/103199730-bbc9a180-48eb-11eb-98be-66c355b478be.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/103199706-abb1c200-48eb-11eb-8b0a-a0a7279230b6.png)
