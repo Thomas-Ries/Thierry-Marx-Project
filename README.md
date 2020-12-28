@@ -29,9 +29,9 @@ It is not a responsive website
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/103199421-1f9f9a80-48eb-11eb-94c6-3b2d013a4821.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/103199442-2af2c600-48eb-11eb-9020-08fbf83c4653.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104393-6f339000-3e2e-11eb-8e59-fe20500d8d9f.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/103199663-99378880-48eb-11eb-8ae8-a2643bc231bd.png)
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/102104426-78246180-3e2e-11eb-8a4f-be8579018613.png)
 
