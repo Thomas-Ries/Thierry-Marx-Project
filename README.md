@@ -27,7 +27,7 @@ It is not a responsive website
 
 
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104459-7fe40600-3e2e-11eb-802e-6069e3844ba3.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/103198781-7d32e780-48e9-11eb-863b-ca8570340a87.png)
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
 
