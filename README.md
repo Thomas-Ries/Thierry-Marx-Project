@@ -4,7 +4,7 @@ First small project during my Front-End specialisation
 # Date
 27th December 2020
 
-# Langage used in Front
+# Languages used in Front
 - HTML 5
 - CSS 3
 - JavaScript
