@@ -5,7 +5,7 @@ First small project during my Front-End specialisation
 27th December 2020
 
 # How to Setup
-- cd travellers
+- cd marx
 - npm install
 - npm run dev
 
