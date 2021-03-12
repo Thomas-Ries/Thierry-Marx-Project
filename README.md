@@ -4,6 +4,11 @@ First small project during my Front-End specialisation
 # Date
 27th December 2020
 
+# How to Setup
+- cd travellers
+- npm install
+- npm run dev
+
 # Languages used in Front
 - HTML 5
 - CSS 3
